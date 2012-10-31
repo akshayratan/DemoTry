@@ -1,0 +1,13 @@
+diff --git a/hello.java b/hello.java
+index 051d8e7..ac18395 100644
+--- a/hello.java
++++ b/hello.java
+@@ -4,6 +4,7 @@ class hello
+ {
+ 	public static void main(String args)
+ 		{
+-			System.out.println("Hello World");
++		
++			System.out.println("Lets see some changes now ");
+ 		}
+ }
